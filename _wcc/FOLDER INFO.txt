@@ -1,3 +1,5 @@
+Adding this line from the remote repository.  Will try to using git pull to send the updates from the remote to the local instead of using git fetch and git merge. Git fetch is the opposite of git push.
+
 This folder was created 2/6/2013 10:36 AM by and forJaden Riley to serve as a storage and developmental area.
 
 Do not push/publish this folder to any production server.
