@@ -1,5 +1,3 @@
-ADDED FOR TEST - DELET LATER
-
 This folder was created 2/6/2013 10:36 AM by and forJaden Riley to serve as a storage and developmental area.
 
 Do not push/publish this folder to any production server.
