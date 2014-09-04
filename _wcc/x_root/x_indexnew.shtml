@@ -1,0 +1,227 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1" />
+<meta name="keywords" content="Texas, Texas Department of Assistive and Rehabilitative Services, DARS, Austin, Travis County, Travis, , state, rehab services, rehabilitation services, housing, independent living, disability, Medicaid, rehabilitation, rehab, child development, children, hearing, sight, disabilities, blind, blindness, visually impaired, vision impairment, independent living, vocational rehabilitation, deafblind, deaf, hard of hearing, early childhood intervention, developmental delays, physical disability, mental disability, disability determination, Social Security, blind child, Business Enterprises of Texas" />
+<meta name="Description" content="The Texas Department of Assistive and Rehabilitative Services (DARS) works in partnership with Texans with disabilities and families with children who have developmental delays to improve the quality of their lives and to enable their full participation in society." />
+<meta name="Subject" content="Blind, Children, Disabled people, Deaf, Special education, Vocational education, Business enterprises, Government information, State governments, Mentally disabled" />
+<meta name="Type" content="Homepages, Programs and services" />
+<title>Texas Department of Assistive and Rehabilitative Services</title>
+
+<!-- #include virtual="/styles1col.inc" -->
+
+
+<style type="text/css">
+.right {font-weight:bold;float:right;}
+.right {
+	font-weight:bold;
+	float:right;
+}
+#topBar {
+	width:920px;
+	margin:0 auto 10px auto;
+	float:left;
+	clear:none;
+}
+#topBarLt {
+	width:130px;
+	float:left;
+	text-align:left;
+	margin-left:5px;
+}
+#topBarCtr {
+	width:575px;
+	font-weight:bold;
+	text-align:center;
+	margin:10px auto 0 auto;
+	float:left;
+	clear:none;
+}
+#topBarRt {
+	width:205px;
+	float:right;
+	clear:none;
+	text-align:right;
+}
+#container {
+	background-color:#fff;
+	background-image:none;
+	border-color: #666666;
+	border-style: solid;
+	border-width: 1px 0 0;
+	width:1000px;
+}
+#columnContainer {
+	width:920px;
+	margin:auto;
+}
+.columnImg {
+	border:#4A82BD 1px solid;
+}
+.column {
+	width:220px;
+	padding:0;
+	float:left;
+	margin:0 5px;
+	text-align:center;
+}
+.columnText {
+        border:#000 1px solid;
+        padding:0 3px;
+        margin-top:5px;
+        height:20em;
+}
+.columnText p, ul {
+	padding:0 2px;
+}
+
+.headerLink a:link, .headerLink a:visited {
+	text-decoration:none;
+	color:#3130FF;
+}
+.headerLink a:hover, .headerLink a:active {
+	text-decoration:underline;
+}
+#content img {
+	padding:0;
+}
+#content {
+	width:100%;
+}
+#news {
+	font-size:.9em;
+	margin-left:.5em;
+}
+
+.DARSfb {
+	margin-top:10px;
+}
+</style>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17023613-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+<body>
+	
+<!-- #include virtual="/header.inc" -->
+	<div id="container">
+	  <div id="content">
+
+
+<!-- FB plug-in part 1 starts. To be uncommented when page is put on an external server 
+<div id="fb-root"></div> -->
+<script type="text/javascript">
+// (function(d, s, id) {
+ // var js, fjs = d.getElementsByTagName(s)[0];
+ // if (d.getElementById(id)) return;
+ // js = d.createElement(s); js.id = id;
+ // js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+ // fjs.parentNode.insertBefore(js, fjs);
+// }(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- end of FB plug-in pt 1 -->
+
+
+    <p style="float:right;clear:none;font-weight:bold;"><a href="/spanish.shtml">Programas de DARS en Español</a></p>
+    
+<h1>Department of Assistive &amp; Rehabilitative Services</h1>
+
+    
+    <div style="clear:none;">&nbsp;</div>
+    
+      <div id="columnContainer">
+      	<div id="topBar">
+        <div id="topBarLt"><a href="/disability/index.shtml"><img src="images/DIS-Graphic-8.png" width="119" height="60" alt="disability awareness" /></a></div>
+        <div id="topBarCtr">
+          <p style="font-size: 1.5em;">Explore What DARS Offers.</p>
+        </div>
+
+        
+  
+
+
+        <div id="topBarRt"><!--   FB plug in part 2 below To be uncommented when page is put on an external server <div class="DARSfb fb-like" data-href="http://www.facebook.com/DARSTexas" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false"></div> --> <!-- remove this FB img when uncommenting the two plug-ins --> <img src="images/fb.png" width="85" height="25" alt="Like us on Facebook" /> 
+<a href="javascript:window.open('http://service.govdelivery.com/service/subscribe.html?code=TXHHSC_10','Popup','width=780,height=440,toolbar=no,scrollbars=yes,resizable=yes');%20void('');" onclick="window.status='Sign Up'; return true" onmouseover="window.status='Sign Up'; return true" onmouseout="window.status=''; return true"><img src="images/govdelivery_white.png" width="95" height="60" alt="sign up for e mail updates" /></a></div>
+      </div>
+      <!-- end of top bar -->
+      
+  <div class="column"> <img class="columnImg" src="images/Help_for_Texans.jpg" width="216" height="259" alt="a woman in a wheelchair working on a computer" />
+        <div class="columnText">
+          <h2 class="headerLink"><a href="/services/index.shtml">Help For Texans</a></h2>
+          <p>Learn about our services and programs, learn how to apply for services, and find the nearest DARS office or program near you:</p>
+          <ul style="list-style-type:none;text-indent:none;text-align:left;">
+            <li><a href="/drs/offices/OfficeLocator.aspx">Rehabilitation Services Offices</a></li>
+            <li><a href="/dbs/offices/OfficeLocator.aspx?div=4"> Blind Services Offices</a></li>
+            <li><a href="/ecis/searchprogram.asp">ECI Program Offices</a></li>
+          </ul>
+        </div>
+      </div>
+      <!-- end of column 1 -->
+      <div class="column"> <img class="columnImg" src="images/Business_Partnerships.jpg" width="216" height="259" alt="store clerks working at a store" />
+        <div class="columnText">
+          <h2 class="headerLink"><a href="/services/servicesforbusiness.shtml">Business Partnership Opportunities</a></h2>
+          <p>Discover the benefits of partnering with DARS and learn the services available in a DARS business partnership.</p>
+        </div>
+      </div>
+      <!-- end of column 2-->
+      <div class="column"> <img class="columnImg" src="images/Stakeholders.jpg" width="216" height="259" alt="people in a meeting discussion" />
+        <div class="columnText">
+          <h2 class="headerLink"><a href="/stakeholders/index.shtml">For Stakeholders</a></h2>
+          <p>See schedules of upcoming council meetings and news for DARS Stakeholders and advocates</p>
+        </div>
+      </div>
+      <!-- end of column 3 -->
+      <div class="column"> <img class="columnImg" src="images/Service_Providers.jpg" width="216" height="259" alt="two men reviewing documents" />
+        <div class="columnText">
+          <h2 class="headerLink"><a href="/business/index.shtml">Service Providers and Vendors</a></h2>
+          <p>Find contractor policies and forms, see terms and conditions, and access the Standards Manuals.</p>
+        </div>
+      </div>
+      <!--end of column 4 -->
+      <div style="clear:both;">&nbsp;</div>
+      
+  <div id="news">
+        <h2>DARS News</h2>
+        
+ <h3>Disability History and Awareness: New TV Video Description Rules Take Effect July 1</h3>
+        <p>New rules make television programming more accessible to Texans who are blind or visually impaired. | <a href="/announcements/20120622.shtml">More about new TV description rules</a>.</p>
+        
+  <h3>Insurance Assistance Available Following Severe Weather</h3>
+        <p>Consumers who suffered property damage as a result of the recent severe weather should contact their insurance company or agent to file a claim as soon as possible. | <a href="/announcements/20120618.shtml">More about severe weather insurance assistance</a>.</p>
+       
+  <h3>People With Disabilities and Texas Business &mdash; A Profitable Partnership</h3>
+        <p>The Texas Department of Assistive and Rehabilitative Services has expanded its focus to provide services to the state&rsquo;s business community. As a result, people with disabilities, who have a higher unemployment rate than people with no disability, have more opportunities for employment. At the same time, businesses have access to free services that can help them lower recruiting and training costs, take advantage of tax incentives and benefits, and reduce turnover. | <a href="/announcements/20120601.shtml">More about DARS business services</a>.</p>
+      </div>
+      <!-- end of news-->
+    </div>
+    <!-- end of column container -->
+    <p style="color:#C00000;font-weight:bold;font-size:1.2em;text-align:center;">For questions, compliments or complaints call the <a href="/contact/index.shtml">DARS Inquiries Line</a>: 1-800-628-5115</p>
+
+
+
+
+
+
+
+<p><br /></p>
+
+	 
+	</div><!--end content -->
+	<!-- #include virtual="/footer.inc" -->
+</div>
+</body>
+</html>

@@ -1,0 +1,12 @@
+\DARSDev\
+
+x_rtest.shtml
+
+references 
+
+x_SupportedSelf-EmploymentBenchmarksforDRSProviderDiagram-ImageVersion.png
+
+Otherwise this image file can be found 
+
+\DARSDev\DRS\ProviderManual\ch2.htm
+\DARSDev\DRS\ProviderManual\guidance.htm

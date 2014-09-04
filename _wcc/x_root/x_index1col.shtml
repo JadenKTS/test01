@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1" />
+<meta name="keywords" content="blind, blindness, visually impaired, vision impairment, independent living, vocational rehabilitation, deafblind, deaf, hard of hearing, early childhood intervention, developmental delays, physical disability, mental disability, disability determination, Social Security, blind child, Business Enterprises of Texas" />
+<meta name="Description" content="The Texas Department of Assistive and Rehabilitative Services (DARS) works in partnership with Texans with disabilities and families with children who have developmental delays to improve the quality of their lives and to enable their full participation in society." />
+<meta name="Subject" content="Blind, Children, Disabled people, Deaf, Special education, Vocational education, Business enterprises, Government information, State governments, Mentally disabled" />
+<meta name="Type" content="Homepages, Programs and services" />
+<title>Texas Department of Assistive and Rehabilitative Services</title>
+<!-- #include virtual="/styles1col.inc" -->
+</head>
+<body> 
+<!-- #include virtual="/header.html" -->
+
+<div id="container">
+	<h1>Welcome to the</p>Texas Department of Assistive and Rehabilitative Services (DARS)</h1>
+	<img src="/images/DandHoHbldg.jpg" align="left" alt="photo of DARS Administration building">
+	
+	<p>Four state agencies have merged into the new Texas Department of 
+	Assistive and Rehabilitative Services (DARS), which will provide programs
+	and support for people with disabilities and families of children with
+	development delays. &ldquo;This new organization brings together four state agencies in a new 
+	partnership to help better meet the needs of the Texans we serve,&rdquo; 
+	DARS Commissioner Terry Murphy said. &ldquo;We have one of the best 
+	service delivery systems in the country, and our goal is to make 
+	it even better.&rdquo;</p>
+	
+	<h2>More about DARS</h2> 
+	<p> Want to know more about the new Department of Assistive and Rehabilitative 
+	Services?</p>
+	
+	<!--#include virtual="/footer.html" -->
+</div>	<!--end container --> 
+</body>
+</html>

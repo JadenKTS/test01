@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1" />
+<meta name="keywords" content="announcements, news" />
+<meta name="Description" content="News and announcements from the Texas Department of Assistive and Rehabilitative Services." />
+<meta name="Subject" content="Government information" />
+<meta name="Type" content="News or Press Releases" />
+<title>DARS - Stakeholders</title>
+	
+	<!-- #include virtual="/stylesn.inc" -->
+
+</head>
+<body> 
+	<!-- #include virtual="/header.inc" -->
+	<div id="container">
+	 <div id="inner_container_wrapper" class="setheight icw:after"> 
+	 <div id="content_wrapper" class="setheight icw:after">
+	  <div id="content">
+
+<h1>TEST TEST TEST</h1>
+
+<p><strong>ECI Advisory Committee meeting</strong></p>
+<strong><a href="/ecis/meetings/ADAug2012agenda.shtml">Agenda</a></strong></p>
+August 15, 2012</p>
+9:00 a.m.</p>
+4900 N. Lamar Blvd., Room 1410</p>
+Austin</p>
+
+<p><strong>Proposed DARS Autism Program Rules Public Meeting</strong></p>
+August 15, 2012</p>
+4:30 p.m. to 6:30 p.m.</p>
+Criss Cole Rehabilitation Center</p>
+4900 N. Lamar Blvd., Room 1410</p>
+Austin</p>
+
+
+<p><strong>DARS Joint Budget Hearing for 2014-15 Biennium</strong></p>
+September 10, 2012</p>
+1:00 – 4:00 p.m.</p>
+Reagan Building, 105 W. 15th Street, Room 140</p>
+Austin</p>
+
+<p><strong>Rehabilitation Council of Texas meeting</strong></p>
+October 15 &amp; 16, 2012</p>
+
+<p><strong>DARS Council meeting</strong></p>
+November 2, 2012</p>
+Austin</p>
+
+
+<p></p></p>
+
+
+
+
+
+	  </div>
+	  <!--end content -->
+	 </div>
+	 <!--end content_wrapper-->
+	<!-- #include file="/stakeholders/stakeholderSideNavBar.inc" -->
+	 </div>
+	 <!--end inner_container_wrapper-->
+	<!-- #include virtual="/footer.inc" -->
+  </div>
+<p></p>
+<p></p>
+<p></p>
+	<p><!--end container -->
+                </p>
+</body>
+</html>

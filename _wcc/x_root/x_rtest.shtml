@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1" />
+<meta name="keywords" content="blind, blindness, visually impaired, vision impairment, independent living, vocational rehabilitation, deafblind, deaf, hard of hearing, early childhood intervention, developmental delays, physical disability, mental disability, disability determination, Social Security, blind child, Business Enterprises of Texas" />
+<meta name="Description" content="The Texas Department of Assistive and Rehabilitative Services (DARS) works in partnership with Texans with disabilities and families with children who have developmental delays to improve the quality of their lives and to enable their full participation in society." />
+<meta name="Subject" content="Blind, Children, Disabled people, Deaf, Special education, Vocational education, Business enterprises, Government information, State governments, Mentally disabled" />
+<meta name="Type" content="Homepages, Programs and services" />
+<title>Texas Department of Assistive and Rehabilitative Services</title>
+<!-- #include virtual="/stylesn.inc" -->
+
+<style type="text/css">
+#att_note {margin: 1em 2em 1em 2em; padding: 0 .5em 0 1em ; background: #ffffe0; border: 1px solid #dcdcdc;}
+.attention {font-weight: bold; font-style: italic;color:#E80000;}
+#fraud_note {margin: 1em 2em 1em 2em; padding: 0 .5em 0 1em ; background: #ffffe0; border: 5px solid #dcdcdc;}
+</style>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17023613-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+<body>
+	<!-- #include virtual="/header.inc" -->
+	<div id="container">
+	 <div id="inner_container_wrapper" class="setheight icw:after"> 
+	 <div id="content_wrapper" class="setheight icw:after">
+	  <div id="content">
+
+<h1>Department of Assistive &amp; Rehabilitative Services</h1>
+
+
+
+<p><br /></p>
+
+
+
+<p><img src="SupportedSelf-EmploymentBenchmarksforDRSProviderDiagram-ImageVersion.png" alt="test" >test</p>
+
+
+
+<p><br /></p>
+
+
+
+       </div><!--end content -->
+	 </div><!--end content_wrapper-->
+	<!-- #include file="HomeSideNavBar.inc" -->	
+	</div><!--end inner_container_wrapper-->
+	<!-- #include virtual="/footer.inc" -->
+</div><!--end container --> 
+</body>
+</html>
